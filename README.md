@@ -1,7 +1,7 @@
 # Railway Data Analysis Project
 
-## Objective
-Analyze railway data to identify operational patterns, station activity, and train distribution.
+## Overview
+This project analyzes railway operational data to identify station activity, train distribution, route utilization, and operational patterns using Python, Pandas, Matplotlib, Seaborn, and Power BI.
 
 ## Tools Used
 - Python
@@ -9,6 +9,15 @@ Analyze railway data to identify operational patterns, station activity, and tra
 - NumPy
 - Matplotlib
 - Seaborn
+- Power BI
+
+## Project Components
+- Data Cleaning
+- Data Transformation
+- Pattern Analysis
+- Route Analysis
+- Interactive Power BI Dashboard
+- Business Insights and Recommendations
 
 ## Author
 Drishti Ahuja
